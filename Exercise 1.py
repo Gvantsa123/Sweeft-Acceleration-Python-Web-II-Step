@@ -15,5 +15,3 @@ for word, count in word_counts.items():
  print(count)
  
  
- 
- #pirveli amocana
